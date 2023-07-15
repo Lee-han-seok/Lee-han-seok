@@ -1,4 +1,4 @@
-Hi, I'm Hanseok. :wave:
+## Hi, I'm Hanseok. :wave:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 🎓 국민대학교 빅데이터경영통계전공 (졸)  <br/>
