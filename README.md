@@ -1,11 +1,14 @@
-<div align="center"> 
+Hi, I'm Hanseok. :wave:
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-
- 
-## :wave: Welcome to my Github :)
+🎓 국민대학교 빅데이터경영통계전공  <br/>
+💻 Interested in Data Analysis & Data Science
+✉️ onestone0311@gmail.com
 
  <br/>
  <br/>
+
+ <div align="center"> 
 
 ### 💪 used as the Main
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
