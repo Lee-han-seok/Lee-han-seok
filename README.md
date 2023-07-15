@@ -2,7 +2,7 @@ Hi, I'm Hanseok. :wave:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 🎓 국민대학교 빅데이터경영통계전공  <br/>
-💻 Interested in Data Analysis & Data Science
+💻 Interested in Data Analysis & Data Science <br/>
 ✉️ onestone0311@gmail.com
 
  <br/>
