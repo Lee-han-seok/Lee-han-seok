@@ -6,7 +6,7 @@
  <br/>
 
 
-### :wave: Welcome to my Github :) :wave:
+## :wave: Welcome to my Github :) :wave:
 
  <br/>
  <br/>
