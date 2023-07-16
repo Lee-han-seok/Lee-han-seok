@@ -3,8 +3,9 @@
 
 🎓 국민대학교 빅데이터경영통계전공 (졸)  <br/>
 💻 Interested in Data Analysis & Data Science <br/>
-✉️ onestone0311@gmail.com
-
+✉️ onestone0311@gmail.com  <br/>
+🔗 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://blog.naver.com/2hannseok/)
+<a href="https://velog.io/@yeoonnii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
  <br/>
  <br/>
 
