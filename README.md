@@ -10,7 +10,7 @@
 
  <div align="center"> 
 
-#### 💪 used as the Main
+#### 💪 Used as the Main
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
@@ -43,3 +43,6 @@
 
 #### ✌️ Awards
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Han-Seok&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Han-Seok&layout=compact&theme=transparent)
