@@ -26,7 +26,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
  <br/>
-
+ <br/>
+ <br/>
  
 #### ✏️ Certification
 | 시험명 | 취득일 | 주관 |
@@ -37,11 +38,23 @@
 | TESAT 1등급 | 2023.05.20 | 한국경제신문 |
 | OPIC IH등급 | 2023.06.09 | 한국경제신문 |
 
+<br/>
+<br/>
+<br/>
+ 
 
 #### 🔥 Projects
+| 프로젝트명 |  |  |  |
+| :------: | :------: | :------: | :------: |
 
+<br/>
+<br/>
+<br/>
 
 #### ✌️ Awards
 
+<br/>
+<br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Han-Seok&show_icons=true&theme=transparent)
