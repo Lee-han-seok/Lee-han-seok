@@ -58,4 +58,6 @@
 <br/>
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-han-seok&layout=compact&theme=transparent)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Han-Seok&show_icons=true&theme=transparent)
