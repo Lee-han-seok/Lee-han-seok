@@ -32,6 +32,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
  <br/>
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=onestone0311)](https://solved.ac/onestone0311/)
+
  <br/>
  <br/>
  
