@@ -37,8 +37,8 @@
 #### ✌️ Awards
 | 대회명 [수상명] | 주관기관 | 훈격 |
 | :------: | :------: | :------:  |
-| 2019 행정안전부 빅데이터분석 공모전 [우수상] | 행정안전부 | 한국정보화진흥원장상 |
-| 2023 빅콘테스트 빅데이터 플랫품 분야 (지정주제리그) [최우수상] | 과학기술정보통신부, NIA | 한국부동산원장상 |
+| [📎](https://github.com/Lee-han-seok/Data-Competition/blob/main/%E2%98%85%5B19.08%5D%20%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%B5%EB%AA%A8%EC%A0%84/i-Space%20%EC%9E%85%EC%A7%80%EC%84%A0%EC%A0%95_%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EB%A0%B9%EB%8C%80%EA%B0%80%20%EC%9D%B4%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%AC%B4%EB%8D%94%EC%9C%84%20%EC%89%BC%ED%84%B0(SMG).pdf)2019 행정안전부 빅데이터분석 공모전 [우수상] | 행정안전부 | 한국정보화진흥원장상 |
+| [📎](https://github.com/Lee-han-seok/Data-Competition/blob/main/%E2%98%85%5B23.12%5D%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%9C%EC%9A%A9%EB%B6%84%EC%95%BC%20%EC%A7%80%EC%A0%95%EC%A3%BC%EC%A0%9C%EB%A6%AC%EA%B7%B8(%EB%B6%80%EB%8F%99%EC%82%B0)/%EC%9A%B0%EB%A6%AC4Lee_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) 2023 빅콘테스트 빅데이터 플랫품 분야 (지정주제리그) [최우수상] | 과학기술정보통신부, NIA | 한국부동산원장상 |
 
  <br/>
  <br/>
