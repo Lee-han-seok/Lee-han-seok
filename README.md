@@ -57,9 +57,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=onestone0311)](https://solved.ac/onestone0311)
 
-#### 🔥 Projects
-| 프로젝트명 |  |  |  |
-| :------: | :------: | :------: | :------: |
 
 <br/>
 <br/>
