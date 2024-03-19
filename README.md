@@ -1,10 +1,14 @@
 ## Hi, I'm Hanseok. :wave: ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
  <br/>
-
-🎓 국민대학교 빅데이터경영통계전공 (졸)  <br/>
+🏢 (24.03 ~      ) 웨슬리퀘스트 [인턴] <br/>
+<br/>
+🎓 (17.03 ~ 21.02) 국민대학교 빅데이터경영통계전공 (졸)  <br/>
+💂‍♂️ (21.03 ~ 23.06) 대한민국 육군 장교 (중위 만기 제대)  <br/>
+✏️ (23.07 ~ 24.01) SK T아카데미 빅데이터분석가과정 (수료)  <br/>
+<br/>
 💻 interest in Data Analysis & Data Science <br/>
-✉️ onestone0311@gmail.com  <br/>
-🔗 <a href="https://blog.naver.com/2hannseok"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/><a href="https://blog.naver.com/2hannseok"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Blog&logoColor=white"/></a>
+✉️ 22hanseok@gmail.com  <br/>
+🔗 <a href="https://blog.naver.com/2hannseok"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/><a href="https://blog.naver.com/2hannseok"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Blog&logoColor=white"/></a> https://blog.naver.com/2hannseok
  <br/>
  <br/>
 
