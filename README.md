@@ -6,7 +6,6 @@
 
 🔗 <a href="https://blog.naver.com/2hannseok"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/><a href="https://blog.naver.com/2hannseok"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Blog&logoColor=white"/></a> <a href="https://www.linkedin.com/in/%ED%95%9C%EC%84%9D-%EC%9D%B4-641689296/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
- <br/>
 
 ### 🏢 Career  
 - **(24.07 ~      )** 한국투자증권
